@@ -1,4 +1,4 @@
-# prasionAi_Slot_Booking_System
+# PrasionAi_Slot_Booking_System
 
 **🗓️ Appointment Scheduler Agent**
 This project uses the praisonaiagents framework to create an AI-powered agent that helps users schedule and view their appointments in a structured and rule-based manner.
@@ -16,3 +16,4 @@ Automatically includes:
   Appointments are stored in a JSON file.
   Allows viewing of today's appointment plan (default date: today).
   Powered by gemini-1.5-flash-8b LLM.
+
