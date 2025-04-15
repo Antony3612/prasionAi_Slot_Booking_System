@@ -9,12 +9,11 @@ Schedule 30-minute appointments between 8:30 AM and 5:30 PM.
 **Enforce no overlapping appointments.
 **
 Automatically includes:
-
   🫖 15-minute tea break at 11:00 AM.
   🍽️ 1-hour lunch break from 1:00 PM to 2:00 PM.
   Each appointment must include the user's name and reason.
   Appointments are stored in a JSON file.
   Allows viewing of today's appointment plan (default date: today).
   Powered by gemini-1.5-flash-8b LLM.
-
+//gemini api key for this program
 (https://github.com/user-attachments/assets/805c2be0-6eeb-434f-9843-2503f6b67849)
