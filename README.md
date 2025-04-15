@@ -17,3 +17,4 @@ Automatically includes:
   Allows viewing of today's appointment plan (default date: today).
   Powered by gemini-1.5-flash-8b LLM.
 
+(https://github.com/user-attachments/assets/805c2be0-6eeb-434f-9843-2503f6b67849)
