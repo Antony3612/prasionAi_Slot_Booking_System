@@ -15,5 +15,5 @@ Automatically includes:
   Appointments are stored in a JSON file.
   Allows viewing of today's appointment plan (default date: today).
   Powered by gemini-1.5-flash-8b LLM.
-//gemini api key for this program
+//use gemini api key for this program
 (https://github.com/user-attachments/assets/805c2be0-6eeb-434f-9843-2503f6b67849)
